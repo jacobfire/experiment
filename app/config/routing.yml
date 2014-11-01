@@ -1,0 +1,4 @@
+sirius_meet:
+    resource: "@SiriusMeetBundle/Resources/config/routing.yml"
+    prefix:   /
+

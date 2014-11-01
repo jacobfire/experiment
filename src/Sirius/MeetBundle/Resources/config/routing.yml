@@ -1,0 +1,7 @@
+sirius_meet_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: SiriusMeetBundle:Default:index }
+
+sirius_meet_login:
+    path:     /login
+    defaults: { _controller: SiriusMeetBundle:Login:index }
